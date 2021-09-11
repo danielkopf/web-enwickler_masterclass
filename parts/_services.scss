@@ -1,0 +1,15 @@
+.services {
+    padding: $section-padding 0 $section-padding 0;
+}
+.icon {
+    border: 2px solid $primary;
+    border-radius: 50%;
+    width: 90px;
+    height: 90px;
+    margin: 0 auto 20px auto;
+}
+.fas {
+    padding-top: 16px;
+    font-size: 50px;
+    color: $primary;
+}
