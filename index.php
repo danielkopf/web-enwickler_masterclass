@@ -33,8 +33,8 @@
       <?php require("./parts/footer.php"); ?>
     </div>
     <!-- Popper, Jquery Bootstrap JS -->
-    <script type="text/javascript" src="lib/jquery/jquery-3.6.0.min.js"></script>
-    <script type="text/javascript" src="lib/bootstrap-5.1.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-/bQdsTh/da6pkI1MST/rWKFNjaCP5gBSY4sEBT38Q/9RBh9AH40zEOg7Hlq2THRZ" crossorigin="anonymous"></script>
     <script type="text/javascript" src="js/index.js"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
   </body>
 </html>
